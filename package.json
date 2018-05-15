@@ -1,4 +1,4 @@
-{
+rails generate controller task{
   "name": "rails-task-manager",
   "private": true,
   "dependencies": {}
